@@ -5,13 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b6b9fa5e-0e14-4760-b964-1a6a30c3f68d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/Michurinets-3.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Michurinets-3.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/dist/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/dist/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/documentation.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/documentation.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/gallery.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/gallery.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/news.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/news.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/page_about_us.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/page_about_us.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/selo.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/selo.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -120,7 +118,9 @@
       <workItem from="1693501180240" duration="7147000" />
       <workItem from="1693561431273" duration="518000" />
       <workItem from="1693567772957" duration="1389000" />
-      <workItem from="1693648743715" duration="2377000" />
+      <workItem from="1693648743715" duration="7394000" />
+      <workItem from="1693671007090" duration="2451000" />
+      <workItem from="1693673505205" duration="1358000" />
     </task>
     <servers />
   </component>
